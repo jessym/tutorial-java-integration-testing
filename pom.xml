@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.jessym</groupId>
-    <artifactId>java-integration-testing</artifactId>
+    <artifactId>tutorial-java-integration-testing</artifactId>
     <version>NEXT-SNAPSHOT</version>
 
     <properties>
